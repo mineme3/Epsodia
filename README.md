@@ -4,7 +4,7 @@ Epsodia is a simple prototype for exploring and booking tickets for popular seri
 
 ## How to Use
 
-1. Open the `index.html` file in your browser.
+1. Open the `index.html` file in your any browser.
 2. Browse the series and try out the booking form.
 
 ## Note
