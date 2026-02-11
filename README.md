@@ -1,6 +1,6 @@
 # Epsodia
 
-Epsodia is a simple prototype for exploring and booking tickets for popular series. This project is part of a learning exercise to practice building web applications.
+Epsodia is a simple prototype for exploring and booking tickets for popular series and drama. This project is part of a learning exercise to practice building web applications.
 
 ## How to Use
 
